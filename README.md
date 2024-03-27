@@ -1,0 +1,1 @@
+This is a short script to calculate the minimum number of stiffeners / rivets required for the design of a compression panel to whitstand the given design loads without failure (primarily by buckling)
